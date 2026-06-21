@@ -1,9 +1,10 @@
 # Arch Linux Dotfiles
-My Arch Linux Hyprland dotfiles
+My Arch Linux Hyprland dotfiles. <br>
+This isn't 100% my creation, it contains configs from many other people that I've modified to my liking.
 
 ## Rice preview
 
-[!Rice_Preview](images/rice_preview/hypr_land.png)
+![Rice_Preview](images/rice_preview/hypr_land.png)
 
 ## Basic Requirements
 
