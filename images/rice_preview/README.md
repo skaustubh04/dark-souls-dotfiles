@@ -1,3 +1,5 @@
+File added for convenient preview of all images.
+
 ### hypr_basic.png
 
 ![hypr_basic](hypr_basic.png)
@@ -9,10 +11,6 @@
 ### hypr_lock.png
 
 ![hypr_lock](hypr_lock.png)
-
-### hypr_lock_menu.png
-
-![hypr_lock_menu](hypr_lock_menu.png)
 
 ### hypr_rofi.png
 
