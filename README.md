@@ -1,6 +1,10 @@
 # Arch Linux Dotfiles
 My Arch Linux Hyprland dotfiles
 
+## Rice preview
+
+[!Rice_Preview](images/rice_preview/hypr_land.png)
+
 ## Basic Requirements
 
 Ensure the following are installed on local system (in shell, `$`):
@@ -8,7 +12,7 @@ Ensure the following are installed on local system (in shell, `$`):
 ### Yay
 
 ```
-sudo pacman -S yay
+git clone https://aur.archlinux.org/yay-bin.git "$HOME"/.srcs/yay && cd "$HOME"/.srcs/yay/ && makepkg -si
 ```
 
 ### Git
