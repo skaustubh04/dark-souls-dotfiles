@@ -1,1 +1,1 @@
-### The `wallpapers` folder contains some other images as well.
+The `wallpapers` folder contains some other images as well.
